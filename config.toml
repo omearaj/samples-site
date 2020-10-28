@@ -1,4 +1,4 @@
-baseURL = "http://https://tender-kirch-492b58.netlify.app/"
+baseURL = "https://tender-kirch-492b58.netlify.app/"
 languageCode = "en-us"
 title = "Kick butt site"
 theme = "hello-friend"
