@@ -1,0 +1,4 @@
+baseURL = "http://hugo.spinsource.us"
+languageCode = "en-us"
+title = "Kick butt site"
+theme = "ananke"
